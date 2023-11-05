@@ -1,0 +1,16 @@
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+    --primary: #fdd835;
+    --primary-hover: #fbc02d;
+    --primary-focus: rgba(253, 216, 53, 0.125);
+    --primary-inverse: rgba(0, 0, 0, 0.75);
+}
+
+.knihy {
+    margin-top: 50px;
+}
+
+.buttonBook {
+    width: auto;
+    padding: 15px 100px;
+}
