@@ -9,5 +9,6 @@ Business logiky:
 - edit in detail view (editace knihy v zobrazení detailu knihy)
 
 Instalace:
-> cd demo_books <br />
-> npm start
+> npx create-react-app (název aplikace)
++ udělejte upload složky "src" a "public" do vlastního Reactu a nechejte je přepsat
+
